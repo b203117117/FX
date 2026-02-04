@@ -1,0 +1,15 @@
+PackageIdentifier: PixPin.PixPin
+PackageVersion: 1.8.0
+PackageName: PixPin
+Publisher: PixPin
+License: Proprietary
+ShortDescription: Lightweight screenshot and annotation tool.
+Installers:
+  - Architecture: x64
+    InstallerType: exe
+    InstallerUrl: https://example.com/PixPin-1.8.0.exe
+    InstallerSha256: REPLACE_WITH_SHA256
+    SilentInstallSwitch: /S
+    InstallLocationRequired: false
+ManifestType: singleton
+ManifestVersion: 1.6.0
