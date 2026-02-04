@@ -1,0 +1,7 @@
+Version: 1.0.0
+Sources:
+  - Name: FX
+    Type: GitHub
+    Args:
+      Owner: b20311717
+      Repo: FX
